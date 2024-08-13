@@ -17,4 +17,4 @@
 
 I used Python to perform data analysis (plant_growth_project.ipynb).
 
-I made a Tableau presentation to visualize the graphs and results (plant_growth_project.twb).
+I made a Tableau presentation to visualize the graphs and results (plant_growth_project_tableau_public.html).
