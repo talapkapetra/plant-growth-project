@@ -1,5 +1,5 @@
 
-# Plant Growth Project
+# 1. Plant Growth Project
 
 
 ## Objective
@@ -18,3 +18,16 @@
 I used Python to perform data analysis (plant_growth_project.ipynb).
 
 I created a Tableau presentation to visualize the graphs and results (https://talapkapetra.github.io/portfolio/plant_growth_project_tableau_public.html).
+
+# 2. Olypmic
+
+## Objective
+
+I used a detailed dataset to compare the performances of Countries in Olympic Games in the time period: 1896-2021.
+
+I mainly focused on the number of Medals awarded. 
+
+I created data visualization in Tableau, I made two dashboards
+- World: Contains all data worldwide.
+- Hungary: I filtered dataset to Hungary.
+
