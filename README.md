@@ -25,11 +25,12 @@ I created a Tableau presentation to visualize the graphs and results (https://ta
 
 I used a detailed dataset to compare the performances of Countries in Olympic Games in the time period: 1896-2012.
 
-https://talapkapetra.github.io/portfolio/Olympic.html
-
 I mainly focused on the number of Medals awarded. 
 
 I created data visualization in Tableau, I made two dashboards
 - World: Contains all data worldwide.
 - Hungary: I filtered dataset to Hungary.
+
+https://talapkapetra.github.io/portfolio/Olympic.html
+
 
