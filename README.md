@@ -19,7 +19,7 @@ I used Python to perform data analysis (plant_growth_project.ipynb).
 
 I created a Tableau presentation to visualize the graphs and results (https://talapkapetra.github.io/portfolio/plant_growth_project_tableau_public.html).
 
-# 2. Olypmic
+# 2. Olympic
 
 ## Objective
 
