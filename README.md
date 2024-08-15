@@ -31,7 +31,7 @@ I created data visualization in Tableau, I made two dashboards
 - World: Contains all data worldwide.
 - Hungary: I filtered dataset to Hungary.
 
-https://talapkapetra.github.io/portfolio/Olympic.html
+https://talapkapetra.github.io/portfolio/Olympic_Project.html
 
 # 3. HR Data Analysis Project
 
