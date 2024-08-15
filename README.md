@@ -19,7 +19,7 @@ I used Python to perform data analysis (plant_growth_project.ipynb).
 
 I created a Tableau presentation to visualize the graphs and results (https://talapkapetra.github.io/portfolio/plant_growth_project_tableau_public.html).
 
-# 2. Olympic
+# 2. Olympic Project
 
 ## Objective
 
@@ -32,5 +32,10 @@ I created data visualization in Tableau, I made two dashboards
 - Hungary: I filtered dataset to Hungary.
 
 https://talapkapetra.github.io/portfolio/Olympic.html
+
+# 3. HR Data Analysis Project
+
+https://talapkapetra.github.io/portfolio/HR_Data_Analysis_Project.html
+
 
 
