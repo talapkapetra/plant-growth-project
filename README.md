@@ -62,7 +62,7 @@ Finally, when I had a complete overview of the whole dataset, I started the stat
 - Firstly, I hypothesized that there were differences in morphometric and quantitative features of the different ‘species’ (R1, R2, R3). Indeed, significant differences have been proven by Kruskal-Wallis and Mann-Whitney U tests. 
 - Secondly, I hypothesized, that the morphometric and quantitative features are significantly different in plant species kept on different conditions. According to the One-way ANOVA results, significant differences have been found. The different conditions have an effect on the chlorophyll content and leaf area of the plants more than on the number of the leaves.
 
-I used Python to perform this analysis (greenhouse_project.ipynb)
+I used Python to perform data analysis (greenhouse_project.ipynb)
 
 
 
