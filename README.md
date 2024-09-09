@@ -130,20 +130,17 @@ I created an interactive visualisation of the data in Tableau with three dashboa
 
 ### Dashboard Snapshot I:  Introduction
 
-![plant_growth_project_introduction](https://github.com/user-attachments/assets/63a12e31-a457-4fe7-ad62-2ddb306e80be)
+![plant_growth_project_introduction](https://github.com/user-attachments/assets/890a6dfe-b3c2-4499-badc-49ca29113710)
 
 ### Dashboard Snapshot II: Descriptive Statistics
 
-![plant_growth_project_descr](https://github.com/user-attachments/assets/7542bc85-d992-4e83-908f-037db80c06df)
+![descriptive_statistics_tableau](https://github.com/user-attachments/assets/b544fd5f-3a78-4929-ae85-f62cd7d599c1)
 
 ### Dashboard Snapshot III: Statistical Analysis
 
-![plant_growth_project](https://github.com/user-attachments/assets/7f16cf49-df7f-4a8e-b786-7f54c4291824)
+![statistical_analysis_tableau](https://github.com/user-attachments/assets/09146994-e7a0-480e-b45f-8775339f8be6)
 
 [Tableau public reference](https://talapkapetra.github.io/plant-growth-project/plant_growth_project_tableau_public.html)
-
-
-
 
 
 
