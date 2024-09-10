@@ -126,7 +126,7 @@ Fertilizer_Type_Num: correlation = 0.23, p-value = 0.06115
 
 ## Data Visualisation in Tableau
 
-I created an interactive visualisation of the data in Tableau with three dashboard summarized in a story (plant_growth_project)
+I created an interactive visualisation of the data in Tableau with three dashboards summarized in a story (plant_growth_project)
 
 ### Dashboard Snapshot I:  Introduction
 
